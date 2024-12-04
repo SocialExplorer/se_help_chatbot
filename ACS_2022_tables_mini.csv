@@ -1,0 +1,249 @@
+name,title,universe
+G001,Geography Identifiers,none
+A00001,Total Population,Total Population
+A00002,Population Density (Per Sq. Mile),Total Population
+A00003,Land Area (Sq. Miles),Area Total
+A02001,Sex,Total Population
+A02002,Sex by Age,Total Population
+A02002A,Sex by Age - Cumulative (Less),Total Population
+A02002B,Sex by Age - Cumulative (More),Total Population
+B02002,Sex by Age (Collapsed Version),Total Population
+A01001,Age,Total Population
+A01001A,Age - Cumulative (Less),Total Population
+A01001B,Age - Cumulative (More),Total Population
+C01001,Age (Detailed Version),Total population
+C01001A,Age (Detailed Version) - Cumulative (Less),Total population
+C01001B,Age (Detailed Version) - Cumulative (More),Total population
+B01001,Age (Short Version),Total Population
+A01002B,Age for Male Population (Short Version),Male Population
+A01002A,Age for Female Population (Short Version),Female Population
+A01004,Median Age by Sex,Total Population
+A03001,Race,Total Population
+A04001,Hispanic or Latino by Race,Total Population
+A04002,Hispanic or Latino by Specific Origin,Total population
+A03002,Asian by Specific Origin (Asian with One Asian Category for Selected Groups),Total Asian categories tallied for people with one Asian category only and people with no specific Asian category reported
+A10008,Households by Household Type,Households
+A10025,Housing Units by Household Type (Including Living Alone) and Age of Householder,Universe:  Occupied housing units
+A10004B,Household Type (Including Living Alone) and Age of Householder (Renter-Occupied Housing Units),Universe:  Renter-Occupied Housing Units
+A10024,Housing Units by Household Size,Universe:  Occupied housing units
+A10002B,Household Size (Renter-Occupied Housing Units),Universe:  Renter-Occupied Housing Units
+A10022,Housing Units by Families and Presence of Own Children,Universe:  Occupied housing units
+A10005B,Families and Presence of Own Children (Renter-Occupied Housing Units),Universe:  Renter-Occupied Housing Units
+A10009,Households by Presence of People Under 18 Years by Household Type,Households
+A10010,Households by Race of Householder,Households
+A03001B,Race (Renter-Occupied Housing Units),Universe:  Renter-Occupied Housing Units
+A10023,Housing Units by Hispanic Status of Householder,Universe:  Occupied housing units
+A10020,Housing Units by Age of Householder,Universe:  Occupied housing units
+A01003B,Age of Householder (Renter-Occupied Housing Units),Universe:  Renter-Occupied Housing Units
+A10007,Population in Households by Household Type and Relationship,Total Population
+A10003,Average Household Size,Occupied Households
+A10003B,Average Household Size of Renter-Occupied Housing Units,Universe:  Renter-Occupied Housing Units
+A11001,Marital Status for the Population 15 Years and Over,Population 15 Years and Over
+A11002,Unmarried-Partner Households by Sex of Partners,Households
+A19001,Group Quarters Population,Total Population
+A12001,Educational Attainment for Population 25 Years and Over,Population 25 Years and Over
+A12002,Highest Educational Attainment for Population 25 Years and Over,Population 25 Years and Over
+A12001A,Educational Attainment for Male Population 25 Years and Over,Male Population 25 Years and Over
+A12002A,Highest Educational Attainment for Male Population 25 Years and Over,Male Population 25 Years and Over
+A12001B,Educational Attainment for Female Population 25 Years and Over,Female Population 25 Years and Over
+A12002B,Highest Educational Attainment for Female Population 25 Years and Over,Female Population 25 Years and Over
+A10021,Housing Units by Educational Attainment of Householder,Universe:  Occupied housing units
+A12005B,Educational Attainment of Householder (Renter-Occupied Housing Units),Universe:  Renter-Occupied Housing Units
+A12004,School Enrollment for the Population 3 Years and Over,Population 3 Years and Over
+A12006,Level of School by Type of School for Enrolled in School Population 3 Years and Over,Population 3 Years and Over Enrolled in School
+A12003,School Dropout Rate for Population 16 to 19 Years,Civilian Population 16 to 19 Years
+A12003A,School Dropout Rate for Male Population 16 to 19 Years,Male Civilian Population 16 to 19 Years
+A12003B,School Dropout Rate for Female Population 16 to 19 Years,Female Civilian Population 16 to 19 Years
+A17002,Employment Status for Total Population 16 Years and Over,Population 16 Years and Over
+A17002A,Employment Status for Male Population 16 Years and Over,Male Population 16 Years and Over
+A17002B,Employment Status for Female Population 16 Years and Over,Female Population 16 Years and Over
+A17010,Ratio of Female to Male Labor Force Participation Rate,In Labor Force 16 Years and Over:
+A17001,Labor Force for Population 16 Years and Over,In Labor Force 16 Years and Over:
+A17005,Unemployment Rate for Civilian Population in Labor Force 16 Years and Over,Civilian Population in Labor Force 16 Years and Over:
+A17005A,Unemployment Rate for Civilian Male Population,Civilian Male in Labor Force 16 Years and Over:
+A17005B,Unemployment Rate for Civilian Female Population,Civilian Female in Labor Force 16 Years and Over:
+A17006A,Unemployment Rate for the Population 16 Years and Over (White Alone),White 16 Years Old in Civilian Labor Force
+A17006B,Unemployment Rate for the Population 16 Years and Over (Black or African American Alone),Black or African American 16 Years Old in Civilian Labor Force
+A17006C,Unemployment Rate for the Population 16 Years and Over (American Indian and Alaska Native Alone),American Indian and Alaska Native 16 Years Old in Civilian Labor Force
+A17006D,Unemployment Rate for the Population 16 Years and Over (Asian Alone),Asian 16 Years Old in Civilian Labor Force
+A17006E,Unemployment Rate for the Population 16 Years and Over (Native Hawaiian and Other Pacific Islander Alone),Native Hawaiian and Other Pacific Islander 16 Years Old in Civilian Labor Force
+A17006F,Unemployment Rate for the Population 16 Years and Over (Some Other Race Alone),Some Other Race 16 Years Old in Civilian Labor Force
+A17006G,Unemployment Rate for the Population 16 Years and Over  (Two or More Races),Two or More races 16 Years Old in Civilian Labor Force
+A17006H,Unemployment Rate for the Population 16 Years and Over (Hispanic or Latino),Hispanic or Latino 16 Years Old in Civilian Labor Force
+A17006I,"Unemployment Rate for the Population 16 Years and Over (White Alone, Not Hispanic or Latino)","White Alone, Not Hispanic or Latino 16 Years Old in Civilian Labor Force"
+A17004,Industry by Occupation for Employed Civilian Population 16 Years and Over,Civilian employed population 16 years and Over
+B17008,Occupation for Employed Civilian Population 16 Years and Over,Employed civilian Population 16 Years and Over
+A17007A,Occupation for Male Employed Civilian Population 16 Years and Over,Male Employed civilian Population 16 Years and Over
+A17007B,Occupation for Female Employed Civilian Population 16 Years and Over,Female Employed civilian Population 16 Years and Over
+A17009,Employment Sector for Employed Civilian Population 16 Years and Over,Total Employed Civilian Population 16 Years and Over
+A17003A,Employment Sector for Male Employed Civilian Population 16 Years and Over,Male Employed Civilian Population 16 Years and Over
+A17003B,Employment Sector for Female Employed Civilian Population 16 Years and Over,Female Employed Civilian Population 16 Years and Over
+A14001,Household Income (In <DollarYear> Inflation Adjusted Dollars),Households
+A14001A,Household Income (In <DollarYear> Inflation Adjusted Dollars) - Cumulative (Less),Households
+A14001B,Household Income (In <DollarYear> Inflation Adjusted Dollars) - Cumulative (More),Households
+A14002,Household Income in the Past 12 Months (In <DollarYear> Inflation-Adjusted Dollars) (Additional Version),Universe:  Occupied housing units
+A14002A,Household Income in the Past 12 Months (In <DollarYear> Inflation-Adjusted Dollars) (Additional Version) - Cumulative (Less),Universe:  Occupied housing units
+A14002B,Household Income in the Past 12 Months (In <DollarYear> Inflation-Adjusted Dollars) (Additional Version) - Cumulative (More),Universe:  Occupied housing units
+A14003B,Household Income in the Past 12 Months (In <DollarYear> Inflation-Adjusted Dollars) (Renter-Occupied Housing Units),Universe:  Renter-Occupied Housing Units
+A10026,Housing Units by Housing Costs as a Percentage of Household Income in the Past 12 Months,Universe:  Occupied housing units
+A14006,Median Household Income (In <DollarYear> Inflation Adjusted Dollars),Households
+A14007,Median Household Income by Race (In <DollarYear> Inflation Adjusted Dollars),Households
+A14008,Average Household Income (In <DollarYear> Inflation Adjusted Dollars),Households
+A14009,Average Household Income by Race (In <DollarYear> Inflation Adjusted Dollars),Households by Race
+A14010,Median Family Income (In <DollarYear> Inflation Adjusted Dollars),Families
+A14011,Average Family Income (In <DollarYear> Inflation Adjusted Dollars),Families
+A14012,Median Nonfamily Household Income (In <DollarYear> Inflation Adjusted Dollars),Nonfamily Households
+A14013,Average Non-Family Income (In <DollarYear> Inflation Adjusted Dollars),Nonfamily Households
+A14014,Median Income by Sex by Work Experience (In <DollarYear> Inflation Adjusted Dollars) (For Population Age 15+),Population 15 years and Over with income in the past 12 months
+A15001,Median Earnings by Sex by Educational Attainment in the past 12 months (In <DollarYear> Inflation Adjusted Dollars) (For Population Age 25+),Population 25 years and Over with earnings
+A14015,Median Household Income by Tenure (In <DollarYear> Inflation Adjusted Dollars),Occupied housing units
+A14016,Median Household Income the Past 12 Months (In <DollarYear> Inflation-Adjusted Dollars) (Renter-Occupied Housing Units),Universe:  Renter-Occupied Housing Units
+A14018,Aggregate Household Income (In <DollarYear> Inflation Adjusted Dollars),Households
+A14019,Aggregate Household Income (In <DollarYear> Inflation Adjusted Dollars) by Race,Households
+A14020,Aggregate Family Income (In <DollarYear> Inflation Adjusted Dollars),Families
+A14021,Aggregate Nonfamily Household Income (In <DollarYear> Inflation Adjusted Dollars),Nonfamily Households
+A14022,Aggregate Income (In <DollarYear> Inflation Adjusted Dollars) for Population 15 Years and Over,Population 15 Years and Over
+A14023,Aggregate Income (In <DollarYear> Inflation Adjusted Dollars) by Race for Population 15 Years and Over,Population 15 Years and Over
+A10011,Households with Earnings,Households
+A10019,Households with Wage or Salary Income,Households
+A10016,Households with Self-Employment Income,Households
+A10012,"Households with Interest, Dividends, or Net Rental Income",Households
+A10017,Households with Social Security Income,Households
+A10018,Households with Supplemental Security Income (Ssi),Households
+A10014,Households with Public Assistance Income,Households
+A10015,Households with Retirement Income,Households
+A10013,Households with Other Types of Income,Households
+A14024,Per Capita Income (In <DollarYear> Inflation Adjusted Dollars),Total Population
+A14024A,Per Capita Income (In <DollarYear> Inflation Adjusted Dollars) (White Alone),White Alone Population
+A14024B,Per Capita Income (In <DollarYear> Inflation Adjusted Dollars) (Black or African American Alone),Black or African American Alone Population
+A14024C,Per Capita Income (In <DollarYear> Inflation Adjusted Dollars) (American Indian and Alaska Native Alone),American Indian and Alaska Native Alone Population
+A14024D,Per Capita Income (In <DollarYear> Inflation Adjusted Dollars) (Asian Alone),Asian Alone Population
+A14024E,Per Capita Income (In <DollarYear> Inflation Adjusted Dollars) (Native Hawaiian and Other Pacific Islander Alone),Native Hawaiian and Other Pacific Islander Alone Population
+A14024F,Per Capita Income (In <DollarYear> Inflation Adjusted Dollars) (Some Other Race Alone),Some Other Race Alone Population
+A14024G,Per Capita Income (In <DollarYear> Inflation Adjusted Dollars) (Two or More Races),Two or More Races Population
+A14024H,Per Capita Income (In <DollarYear> Inflation Adjusted Dollars) (Hispanic or Latino),Hispanic or Latino Population
+A14024I,"Per Capita Income (In <DollarYear> Inflation Adjusted Dollars) (White Alone, Not Hispanic or Latino)","White Alone, not Hispanic or Latino Population"
+A14026,Household Income Quintile Upper Limits,Households
+A14027,Mean Household Income of Quintiles,Households
+A14025,Shares of Aggregate Household Income by Quintile,Households
+A14028,Gini Index of Income Inequality,Households
+A10001,Housing Units,Housing units
+A10060,Tenure,Occupied Housing Units
+A10044,Occupancy Status,Housing units
+A10047,Vacancy Status by Type of Vacancy,Vacant housing units
+A10032,Housing Units in Structure,Housing Units
+A10053,Occupied Housing Units by Units in Structure,Universe:  Occupied housing units
+A10053B,Units in Structure (Renter-Occupied Housing Units),Universe:  Renter-Occupied Housing Units
+A10062B,Total Population in Renter Occupied Housing Units by Units in Structure,Universe:  Total population in Renter Occupied housing units
+A10055,Occupied Housing Units by Year Structure Built,Universe:  Occupied housing units
+A10059B,Year Structure Built (Renter-Occupied Housing Units),Universe:  Renter-Occupied Housing Units
+A10031,Housing Units by Year Householder Moved Into Unit,Universe:  Occupied housing units
+A10056B,Year Householder Moved Into Unit (Renter-Occupied Housing Units),Universe:  Renter-Occupied Housing Units
+A10063B,Total Population in Renter-Occupied Housing Units by Year Householder Moved Into Unit,Universe:  Total population in Renter-Occupied Housing Units
+A10028,Housing Units by Number of Occupants Per Room,Universe:  Occupied housing units
+A10046B,Occupants Per Room (Renter-Occupied Housing Units),Universe:  Renter-Occupied Housing Units
+A10052,Occupied Housing Units by Number of Rooms,Universe:  Occupied housing units
+A10043B,Number of Rooms (Renter-Occupied Housing Units),Universe:  Renter-Occupied Housing Units
+A10050,Occupied Housing Units by Number of Bedrooms,Universe:  Occupied housing units
+A10042B,Number of Bedrooms (Renter-Occupied Housing Units),Universe:  Renter-Occupied Housing Units
+A10057,Median Year Structure Built,Housing units
+A10034,House Heating Fuel,Occupied Housing Units
+A10034B,House Heating Fuel (Renter-Occupied Housing Units),Universe:  Renter-Occupied Housing Units
+A10035,House Value for All Owner-Occupied Housing Units,Owner-occupied housing units
+A10035A,House Value for All Owner-Occupied Housing Units - Cumulative (Less),Owner-occupied housing units
+A10035B,House Value for All Owner-Occupied Housing Units - Cumulative (More),Owner-occupied housing units
+A10036,Median House Value for All Owner-Occupied Housing Units,Owner-occupied housing units
+A18001,Gross Rent (Housing Units with Cash Rent),Renter-occupied housing units with cash rent
+A18001A,Gross Rent (Housing Units with Cash Rent) - Cumulative (Less),Renter-occupied housing units with cash rent
+A18001B,Gross Rent (Housing Units with Cash Rent) - Cumulative (More),Renter-occupied housing units with cash rent
+A18002,Gross Rent as a Percentage of Household Income in 2021,Renter-occupied housing units
+A18011,Gross Rent as a Percentage of Household Income in the Past 12 Months (Dollars) - Cumulative (More),Renter-occupied housing units
+A18009,Median Gross Rent,Renter-occupied housing units paying cash rent
+A18003,Median Gross Rent as a Percentage of Household Income in 2021,Renter-occupied housing units paying cash rent
+A18005,Average Gross Rent,Renter-occupied housing units
+A18004,Aggregate Gross Rent,Renter-occupied housing units
+A18010,Median Gross Rent by Bedrooms,Universe: Renter-occupied housing units paying cash rent
+A18006,Bedrooms by Gross Rent,Universe:  Renter-occupied housing units
+A18008,Median Gross Rent by Year Structure Built,Universe: Renter-occupied housing units paying cash rent
+A18007,Median Gross Rent by Year Householder Moved Into Unit,Universe: Renter-occupied housing units paying cash rent
+A10041,Mortgage Status,Owner-occupied housing units
+A10040,Mortgage Status by Selected Monthly Owner Costs as a Percentage of Household Income in 2021,Owner-occupied housing units
+A10049,Selected Monthly Owner Costs as a Percentage of Household Income in 2021 for Housing Units with a Mortgage,Housing units with a mortgage
+A10051,Selected Monthly Owner Costs as a Percentage of Household Income in 2021 for Housing Units Without a Mortgage,Housing units Without a mortgage
+A10037,Median Selected Monthly Owner Costs as a Percentage of Household Income in 2021 and Mortgage Status,Owner-occupied housing units
+A10027,Housing Units by Monthly Housing Costs,Universe:  Occupied housing units
+A10038,Monthly Housing Cost (Renter-Occupied Housing Units),Universe:  Renter-occupied housing units
+A10039B,Monthly Housing Costs as a Percentage of Household Income in the Past 12 Months (Renter-Occupied Housing Units),Universe:  Renter-Occupied Housing Units
+A13002,Poverty Status in 2021 of Families by Family Type by Presence of Children Under 18 Years,Families
+A13003A,Poverty Status in 2021 for Children Under 18,Population Under 18 Years of Age for whom poverty status Is determined
+A13003B,Poverty Status in 2021 for Population Age 18 to 64,Population Age 18 to 64 for whom poverty status Is determined
+A13003C,Poverty Status in 2021 for Population Age 65 and Over,Population Age 65 and Over for whom poverty status Is determined
+A13004,Ratio of Income in 2021 to Poverty Level,Population for whom poverty status Is determined
+E13004,Ratio of Income in 2019 to Poverty Level of Familes,Families
+B13004,Ratio of Income in 2021 to Poverty Level (Summarized),Population for whom poverty status Is determined
+F13004,Ratio of Income in 2019 to Poverty Level of Familes (Summarized - top-coded at 2.00),Families
+C13004,Ratio of Income in 2019 to Poverty Level (Summarized - top-coded at 5.00),Population for whom poverty status Is determined
+D13004,Ratio of Income to Poverty Level of Families in the Past 12 Months (Summarized - top-coded at 5.00),Families
+A13001A,Poverty Status in 2021 (White Alone),White Alone Population for whom poverty status Is determined
+A13001B,Poverty Status in 2021 (Black or African American Alone),Black or African American Alone Population for whom poverty status Is determined
+A13001C,Poverty Status in 2021 (American Indian and Alaska Native Alone),American Indian and Alaska Native Alone Population for whom poverty status Is determined
+A13001D,Poverty Status in 2021 (Asian Alone),Asian Alone Population for whom poverty status Is determined
+A13001E,Poverty Status in 2021 (Native Hawaiian and Other Pacific Islander Alone),Native Hawaiian and Other Pacific Islander Alone Population for whom poverty status Is determined
+A13001F,Poverty Status in 2021 (Some Other Race Alone),Some Other Race Alone Population for whom poverty status Is determined
+A13001G,Poverty Status in 2021 (Two or More Races),Two or More races Population for whom poverty status Is determined
+A13001H,Poverty Status in 2021 (Hispanic or Latino),Hispanic or Latino Population for whom poverty status Is determined
+A13001I,"Poverty Status in 2021 (White Alone, Not Hispanic or Latino)","White Alone, not Hispanic or Latino Population for whom poverty status Is determined"
+A09005,Means of Transportation to Work for Workers 16 Years and Over,Workers 16 Years and Over
+A09004B,Means of Transportation to Work (Renter-Occupied Housing Units),Universe:  Workers 16 years and Over in households
+A09001,Travel Time to Work for Workers 16 Years and Over,Workers 16 Years and Over
+B09001,Travel Time to Work for Workers 16 Years and Over (Who Did Not Work At Home),Workers 16 Years and Over Who Did Not Work at Home
+A09002,Travel Time to Work for Workers 16 Years and Over (In 15 MIn Intervals) ,Workers 16 Years and Over Who Did Not Work at Home
+A09002A,Travel Time to Work for Workers 16 Years and Over (In 15 MIn Intervals) - Cumulative (Less),Workers 16 Years and Over Who Did Not Work at Home
+A09002B,Travel Time to Work for Workers 16 Years and Over (In 15 MIn Intervals)  - Cumulative (More),Workers 16 Years and Over Who Did Not Work at Home
+A09003,Average Commute to Work (In Min),Average Commute to Work (In min)
+A10030,Housing Units by Vehicles Available,Universe:  Occupied housing units
+A10054B,Vehicles Available (Renter-Occupied Housing Units),Universe:  Renter-Occupied Housing Units
+A08001,Residence 1 Year Ago in the United States,Population 1 year and Over in the United States
+A08002B,Geographical Mobility in the Past Year for Current Residence in the United States (Renter-Occupied Housing Units),Universe:  Population 1 year and Over in households in the United States
+A16002,Veteran Status for the Civilian Population,Civilian Population 18 Years and Over
+A16001,Period of Military Service for Civilian Veterans 18 Years and Over,Civilian veterans 18 Years and Over
+A06001,Nativity by Citizenship Status,Total Population
+A10058,Year of Entry for the Foreign-Born Population,Foreign-born Population
+A05001,Ancestry,Total population
+A05002,People Reporting Ancestry,Total Population
+A05002A,People Reporting Single Ancestry,People Reporting Single Ancestry
+A05002B,People Reporting Multiple Ancestry,People Reporting Multiple Ancestries
+A07001,Place of Birth for the Foreign-Born Population,Foreign-born population
+A10006,Nonfamily Households,Nonfamily Households
+A10045,Owner-Occupied Housing Units,Owner-occupied housing units
+A17008,Occupation for Employed Civilian Population 16 Years and Over,Employed Civilian Population 16 Years and Over
+A20001,Health Insurance,Civilian Noninstitutionalized Population
+A20002,Health Insurance by Age,Civilian Noninstitutionalized Population
+A10048,Occupied Housing Units by Complete Facilities,Universe:  Occupied housing units
+A10033B,Complete Facilities (Renter-Occupied Housing Units),Universe:  Renter-Occupied Housing Units
+A10029,Housing Units by Telephone Service Available by Age of Householder,Universe:  Occupied housing units
+A10061B,Telephone Service Available (Renter-Occupied Housing Units),Universe:  Renter-Occupied Housing Units
+A10002A,Household Size (Owner-Occupied Housing Units),Universe: Owner-Occupied Housing Units
+A10003A,Average Household Size of Owner-Occupied Housing Units,Universe:  Owner-Occupied Housing Units
+A10046A,Occupants Per Room (Owner-Occupied Housing Units),Universe:  Owner-Occupied Housing Units
+A10004A,Household Type (Including Living Alone) and Age of Householder (Owner-Occupied Housing Units),Universe:  Owner-Occupied Housing Units
+A10005A,Families and Presence of Own Children (Owner-Occupied Housing Units),Universe:  Owner-Occupied Housing Units
+A03001A,Race (Owner-Occupied Housing Units),Universe:  Owner-Occupied Housing Units
+A01003A,Age of Householder (Owner-Occupied Housing Units),Universe:  Owner-Occupied Housing Units
+A12005A,Educational Attainment of Householder (Owner-Occupied Housing Units),Universe:  Owner-Occupied Housing Units
+A10056A,Year Householder Moved Into Unit (Owner-Occupied Housing Units),Universe:  Owner-Occupied Housing Units
+A14003A,Household Income in the Past 12 Months (In <DollarYear> Inflation-Adjusted Dollars) (Owner-Occupied Housing Units),Universe:  Owner-Occupied Housing Units
+A14017,Median Household Income the Past 12 Months (In <DollarYear> Inflation-Adjusted Dollars) (Owner-Occupied Housing Units),Universe:  Owner-Occupied Housing Units
+A10039A,Monthly Housing Costs as a Percentage of Household Income in the Past 12 Months (Owner-Occupied Housing Units),Universe:  Owner-Occupied Housing Units
+A10053A,Units in Structure (Owner-Occupied Housing Units),Universe:  Owner-Occupied Housing Units
+A10059A,Year Structure Built (Owner-Occupied Housing Units),Universe:  Owner-Occupied Housing Units
+A10043A,Number of Rooms (Owner-Occupied Housing Units),Universe:  Owner-Occupied Housing Units
+A10042A,Number of Bedrooms (Owner-Occupied Housing Units),Universe:  Owner-Occupied Housing Units
+A10033A,Complete Facilities (Owner-Occupied Housing Units),Universe:  Owner-Occupied Housing Units
+A10054A,Vehicles Available (Owner-Occupied Housing Units),Universe:  Owner-Occupied Housing Units
+A09004A,Means of Transportation to Work (Owner-Occupied Housing Units),Universe:  Householder Lived in Owner-Occupied Housing Units
+A10061A,Telephone Service Available (Owner-Occupied Housing Units),Universe:  Owner-Occupied Housing Units
+A10034A,House Heating Fuel (Owner-Occupied Housing Units),Universe:  Owner-Occupied Housing Units
+A10063A,Total Population in Owner-Occupied Housing Units by Year Householder Moved Into Unit,Universe:  Total population in Owner-Occupied Housing Units
+A08002A,Geographical Mobility in the Past Year for Current Residence in the United States (Owner-Occupied Housing Units),Universe:  Householder Lived in Owner-Occupied Housing Units
+A10062A,Total Population in Owner Occupied Housing Units by Units in Structure,Universe:  Total population in Owner Occupied housing units
